@@ -1,0 +1,13 @@
+Flask==2.2.3
+Flask_Cors==3.0.10
+matplotlib==3.5.1
+nltk==3.8.1
+numpy==1.22.3
+pandas==1.4.2
+Pillow==9.5.0
+rouge_score==0.1.2
+scikit_learn==1.0.2
+tensorflow==2.11.0
+tqdm==4.64.0
+wandb==0.14.2
+gingerit==0.9.0
